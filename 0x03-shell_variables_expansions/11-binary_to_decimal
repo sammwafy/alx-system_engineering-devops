@@ -1,2 +1,2 @@
 #!/bin/bash
-echo (a..za..z) | trn' | grep -voo
+echo $((2#BINARY))

@@ -1,0 +1,2 @@
+#!/bin/bash
+echo (a..za..z) | trn' | grep -voo
